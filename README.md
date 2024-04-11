@@ -28,3 +28,5 @@ Connect to the RDS through DBeaver in your local machine:
 In your local machine Double Check if the RDS actually ingested the data:
 
 ![Alt text](screenshots/2.jpeg)
+
+That's it
