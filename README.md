@@ -20,3 +20,11 @@ The lambdas and the Glue Job have IAM roles, in order to extract data from s3 an
 ![Alt text](screenshots/glue.JPG)
 
 ![Alt text](screenshots/rds.JPG)
+
+Connect to the RDS through DBeaver in your local machine:
+
+![Alt text](screenshots/1.jpeg)
+
+In your local machine Double Check if the RDS actually ingested the data:
+
+![Alt text](screenshots/2.jpeg)
