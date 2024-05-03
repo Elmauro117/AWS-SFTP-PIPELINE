@@ -15,7 +15,7 @@ The lambdas and the Glue Job have IAM roles, in order to extract data from s3 an
 
 ![Alt text](screenshots/lambda.JPG)
 
-![Alt text](screenshots/lambda 2.JPG)
+![Alt text](screenshots/lambda2.JPG)
 
 ![Alt text](screenshots/glue.JPG)
 
