@@ -26,7 +26,7 @@ AWSGlueConsoleFullAccess
                 "s3:GetBucketLocation"
             ],
             "Resource": [
-                "arn:aws:s3:::aws-codestar-us-east-1-691119770807"
+                "arn:aws:s3:::**************"
             ],
             "Effect": "Allow",
             "Sid": "ReadWriteS3"
@@ -42,7 +42,7 @@ AWSGlueConsoleFullAccess
                 "s3:PutObjectACL"
             ],
             "Resource": [
-                "arn:aws:s3:::aws-codestar-us-east-1-691119770807/*"
+                "arn:aws:s3:::************"
             ],
             "Effect": "Allow",
             "Sid": ""
